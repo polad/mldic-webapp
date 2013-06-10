@@ -1,4 +1,4 @@
 mldic-webapp
 ============
 
-Multilingual Dictionary WebApp
+Multilingual Dictionary Web Client
