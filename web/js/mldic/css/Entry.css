@@ -1,0 +1,17 @@
+.mldic .Entry {
+    border: 1px solid #C0C0C0;
+    border-radius: 5px 5px;
+    padding: 5px;
+    margin: 3px 3px 0px 3px;
+}
+
+.mldic .Entry .phraseNode {
+    display: inline-block;
+    font-size: 12pt;
+}
+
+.mldic .Entry .languageNode {
+    display: inline-block;
+    float: right;
+    font-size: 10pt;
+}
