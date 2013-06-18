@@ -24,8 +24,8 @@ define([
             }));
         },
         
-        _buildResultItem: function(attributes) {
-            return new SearchResultItem(attributes);
+        _buildResultItem: function(data) {
+            return new SearchResultItem({ data: data });
         },
         
         onClearResults: function() {}
